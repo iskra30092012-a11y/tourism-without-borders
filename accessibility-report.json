@@ -1,0 +1,66 @@
+[
+  {
+    "page": "/",
+    "violations": []
+  },
+  {
+    "page": "/register",
+    "violations": []
+  },
+  {
+    "page": "/login",
+    "violations": []
+  },
+  {
+    "page": "/recover",
+    "violations": []
+  },
+  {
+    "page": "/privacy",
+    "violations": []
+  },
+  {
+    "page": "/admin#Заявки",
+    "violations": []
+  },
+  {
+    "page": "/admin#Расписание и материалы",
+    "violations": []
+  },
+  {
+    "page": "/admin#Посещаемость",
+    "violations": []
+  },
+  {
+    "page": "/admin#Сообщения",
+    "violations": []
+  },
+  {
+    "page": "/admin#Настройки",
+    "violations": []
+  },
+  {
+    "page": "/account#Программа",
+    "violations": []
+  },
+  {
+    "page": "/account#Расписание",
+    "violations": []
+  },
+  {
+    "page": "/account#Материалы",
+    "violations": []
+  },
+  {
+    "page": "/account#Практика",
+    "violations": []
+  },
+  {
+    "page": "/account#Документы",
+    "violations": []
+  },
+  {
+    "page": "/account#Профиль",
+    "violations": []
+  }
+]
